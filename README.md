@@ -16,8 +16,6 @@ The microservice contains the following endpoints.
 
 ## **Docs Content** ⚡
 
-### Overview
-
 - [Why using Karate?](pages/overview/why-karate.md)
 - [Running Tests](pages/overview/running-tests.md)
 - [GitHub Actions CI](pages/overview/gh-actions-ci.md)
